@@ -1,8 +1,6 @@
-#  Hello World, I'm Alfiansyah! 
+#  Hello World, I'm Alfin! 
 
-**Building intelligent systems that connect production, warehouse, and delivery** into one seamless, traceable flow .
 
----
 
 ##  About Me
 
