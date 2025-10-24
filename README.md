@@ -17,7 +17,7 @@ My sweet spot? Taking messy real-world processes and making them **efficient, tr
 ##  Tech Stack & Tools
 
 **Backend World:**
-- Laravel (v8–12) with Octane / RoadRunner  
+- Laravel  with Octane / RoadRunner  
 - Go (for those slick GUI import tools and scraping automation)  
 - Node.js (WhatsApp bots, broadcast systems, and OTP magic)  
 
@@ -47,7 +47,6 @@ My sweet spot? Taking messy real-world processes and making them **efficient, tr
 | **ERP** | Full-featured ERP for logistics & manufacturing — handles everything from PO to delivery tracking |
 | **Logistic** | Courier management with QR tracking and delivery verification |
 | **Silacak** | Multi-branch traceability with QR scanning mobile app |
-| **Marketplez** | E-commerce logistics backbone connecting distributors |
 | **db-importer (Go GUI)** | MySQL import/export tool with a proper graphical interface |
 | **Node.js Query Builder** | Bringing that Laravel Eloquent feel to Node.js |
 
@@ -59,7 +58,7 @@ My sweet spot? Taking messy real-world processes and making them **efficient, tr
 - **Multi-branch analytics** with beautiful dashboard visualizations  
 - **Go microservices** that play nicely with Laravel backends  
 - **WhatsApp automation** with proper queue management  
-- **Computer vision projects** (OCR, segmentation with YOLOv8)  
+- **Computer vision projects** (OCR, segmentation with YOLO)  
 
 ---
 
@@ -82,10 +81,4 @@ I'm working toward building a **unified smart ERP ecosystem** that actually unde
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mnuralfiansyah&show_icons=true&theme=default)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mnuralfiansyah&layout=compact&theme=default)
 
----
 
-> *"I build software that bridges data, process, and automation — from factory floors to delivery routes."*
-
----
-
-### ✨ **When I'm not coding**, you'll probably find me tinkering with new tech, exploring AI possibilities, or thinking about how to make systems just a little bit smarter.
