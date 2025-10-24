@@ -1,90 +1,91 @@
-# 👋 Hello World, I’m Alfiansyah
+#  Hello World, I'm Alfiansyah! 
 
-I build systems that connect **production, warehouse, and delivery** into one traceable flow — powered by **Laravel**, **Go**, and **AI**.
-
----
-
-## 👨‍💻 About Me
-
-Hi, I’m **M. Nur Alfiansyah** — a **Full Stack Developer & System Architect** specializing in **ERP, Logistics, and Manufacturing Automation Systems**.
-
-I build **end-to-end solutions** — from **Laravel backend with modular microservices (Go, Node.js)** to **front-end dashboards (AdminLTE3 / Tailwind / Next.js)**, integrated with **QR-based traceability, production workflows, and delivery tracking systems**.
-
-I love turning complex operational processes into **intelligent, traceable, and automated systems**.
+**Building intelligent systems that connect production, warehouse, and delivery** into one seamless, traceable flow .
 
 ---
 
-## 🧩 Tech Stack & Tools
+##  About Me
 
-**Backend:**
+Hey there! I'm **M. Nur Alfiansyah** — a **Full Stack Developer & System Architect** passionate about creating **ERP, Logistics, and Manufacturing Automation Systems** that actually make sense.
+
+I thrive on turning complex operational chaos into **intelligent, traceable, and automated workflows**. Whether it's building **Laravel backends with modular microservices** or crafting **user-friendly dashboards**, I love creating solutions that just work.
+
+My sweet spot? Taking messy real-world processes and making them **efficient, transparent, and downright smart**.
+
+---
+
+##  Tech Stack & Tools
+
+**Backend World:**
 - Laravel (v8–12) with Octane / RoadRunner  
-- Go (for GUI import tools and scraping automation)  
-- Node.js (for WhatsApp bot, broadcast, and OTP services)  
+- Go (for those slick GUI import tools and scraping automation)  
+- Node.js (WhatsApp bots, broadcast systems, and OTP magic)  
 
-**Frontend:**
+**Frontend Magic:**
 - AdminLTE 3, TailwindCSS, Next.js  
-- Blade templates with dynamic tables, filters, and status color-coding  
+- Blade templates with dynamic tables that actually look good
 
-**Database:**
-- MySQL / MariaDB (multi-tenant architecture, auditing, and performance-tuned)
-- Query Builder pattern inspired by Laravel for Node.js (open source project)
+**Data & Databases:**
+- MySQL / MariaDB (multi-tenant architecture, auditing, performance-tuned)
+- Building Laravel-style Query Builder for Node.js (because why not?)
 
-**DevOps & Infra:**
-- aaPanel, WSL2 (Ubuntu 22.04), Docker, PM2, Octane  
-- GitHub Actions, cPanel, Cloudflare, wkhtmltopdf for PDF automation  
+**Infrastructure & DevOps:**
+- aaPanel, WSL2 (Ubuntu 22.04), Docker, PM2
+- GitHub Actions, Cloudflare, PDF automation with wkhtmltopdf
 
-**Data Science & AI:**
+**AI & Data Science Playground:**
 - Python, Pandas, OpenCV, TensorFlow  
-- Image processing & OCR (plate recognition, segmentation, hair/skin analysis)
-- Machine learning for production analytics & customer insights  
+- Image processing & OCR (plate recognition, segmentation analysis)
+- Machine learning for production insights & customer intelligence
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-| Project | Description |
-|----------|--------------|
-| **Samatech ERP** | Full-featured ERP for logistics, manufacturing & QC — includes PO, Work Order, QC, Warehouse, and Delivery Tracking modules. |
-| **Barangkat** | Courier & fleet management system with QR tracking and delivery verification dashboard. |
-| **Silacak** | Multi-branch traceability app with vendor & school delivery reporting, integrated with QR scanning mobile app. |
-| **Marketplez** | E-commerce logistics backbone connecting distributors and resellers. |
-| **db-importer (Go GUI)** | MySQL import/export tool with graphical interface using Fyne & Rod. |
-| **Node.js Laravel-style Query Builder** | Open-source query builder that mimics Laravel’s Eloquent feel in Node.js. |
-
----
-
-## 📊 What I’m Working On
-
-- Modular ERP (Production, QC, and Warehouse Flows)  
-- Multi-branch report analytics & dashboard visualization  
-- Integration of Go microservices with Laravel backend  
-- WhatsApp automation with queue and message delivery tracking  
-- Computer vision projects (OCR, segmentation, and object detection with YOLOv8)  
+| Project | What It Does |
+|---------|--------------|
+| **ERP** | Full-featured ERP for logistics & manufacturing — handles everything from PO to delivery tracking |
+| **Logistic** | Courier management with QR tracking and delivery verification |
+| **Silacak** | Multi-branch traceability with QR scanning mobile app |
+| **Marketplez** | E-commerce logistics backbone connecting distributors |
+| **db-importer (Go GUI)** | MySQL import/export tool with a proper graphical interface |
+| **Node.js Query Builder** | Bringing that Laravel Eloquent feel to Node.js |
 
 ---
 
-## 📈 Goals
+## What I'm Building Now
 
-- Build a **unified smart ERP ecosystem** for manufacturers and distributors.  
-- Launch **open-source tools** that simplify backend development (Laravel-style Node.js, Go GUI tools).  
-- Create **AI-driven dashboards** for logistics and production analytics.  
+- **Modular ERP systems** for production and warehouse flows  
+- **Multi-branch analytics** with beautiful dashboard visualizations  
+- **Go microservices** that play nicely with Laravel backends  
+- **WhatsApp automation** with proper queue management  
+- **Computer vision projects** (OCR, segmentation with YOLOv8)  
 
 ---
 
-## 📫 Contact
+##  Vision
+
+I'm working toward building a **unified smart ERP ecosystem** that actually understands manufacturing and distribution needs. Along the way, I'm creating **open-source tools** to make backend development less painful and exploring **AI-driven analytics** for logistics and production.
+
+---
+
+##  Let's Connect!
 
 - **Email:** [mnuralfiansyah@gmail.com](mailto:mnuralfiansyah@gmail.com)  
-- **WhatsApp:** 0812 3745 9403  
-- **LinkedIn:** [linkedin.com/in/mnuralfiansyah](https://linkedin.com/in/mnuralfiansyah)  
+- **LinkedIn:** [linkedin.com/in/m-nur-alfiansyah](https://www.linkedin.com/in/m-nur-alfiansyah/)  
 - **GitHub:** [github.com/mnuralfiansyah](https://github.com/mnuralfiansyah)  
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mnuralfiansyah&show_icons=true&theme=default)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mnuralfiansyah&layout=compact&theme=default)
 
 ---
 
-⭐️ _"I build software that bridges data, process, and automation — from factory floors to delivery routes."_
+> *"I build software that bridges data, process, and automation — from factory floors to delivery routes."*
+
+---
+
+### ✨ **When I'm not coding**, you'll probably find me tinkering with new tech, exploring AI possibilities, or thinking about how to make systems just a little bit smarter.
