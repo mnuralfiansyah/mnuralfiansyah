@@ -1,4 +1,4 @@
-#  Hello World, I'm Alfin! 
+#  Hello, I'm Alfin! 
 
 
 
@@ -8,7 +8,6 @@ Hey there! I'm **M. Nur Alfiansyah** — a **Full Stack Developer & System Archi
 
 I thrive on turning complex operational chaos into **intelligent, traceable, and automated workflows**. Whether it's building **Laravel backends with modular microservices** or crafting **user-friendly dashboards**, I love creating solutions that just work.
 
-My sweet spot? Taking messy real-world processes and making them **efficient, transparent, and downright smart**.
 
 ---
 
